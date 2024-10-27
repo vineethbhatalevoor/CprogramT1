@@ -1,3 +1,4 @@
+/*C program that accepts two 2x3 matrices and prints their sum*/
 #include <stdio.h>
 
 int main() {
