@@ -1,0 +1,6 @@
+fp initially points to val: 10.500000
+fp changed to point to another_val: 10.500000
+cfp points to val: 6.600000
+cfp value changed to: 6.600000
+cptr points to val: 6.600000
+cptr cannot change pointer or value as both are constants
